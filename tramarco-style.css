@@ -1,0 +1,273 @@
+.siteBk {
+	background-attachment: scroll;
+	background-repeat: repeat-x;
+	background-position: left top;
+	background-color: #071057;
+}
+.menuStyle {
+	color: #FCFFFF;
+}
+.contentStyle {
+	background-attachment: scroll;
+	/* background-image: url(images/contentbk.gif); */
+	background-repeat: repeat-x;
+	background-position: left top;
+	background-color: #f5f7f8;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #3e454b;
+	text-decoration: none;
+}
+.adres {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #c4dac4;
+	text-decoration: none;
+	text-align: center;
+	margin: 0px;
+	padding-top: 8px;
+	padding-right: 0px;
+	padding-bottom: 8px;
+	padding-left: 0px;
+}
+.homeUren {
+	margin: 0px;
+	padding-top: 8px;
+	padding-right: 10px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	border-bottom-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #00CC33;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #57985B;
+	font-size: 14px;
+}
+
+.NewsItem {
+	margin: 0px;
+	padding-top: 4px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	border-bottom-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #448048;
+}
+.NewsDate {
+	font-weight: bold;
+	color: #508F53;
+}
+.promoImg {
+	border: 1px solid #FFD84A;
+	margin-top: 0px;
+	margin-right: 4px;
+	margin-bottom: 8px;
+	margin-left: 4px;
+	float: left;
+	padding: 0px;
+	height: 134px;
+	width: 134px;
+}
+.ImgFoto {
+
+	border: 1px solid #FFD84A;
+	margin-top: 0px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	margin-left: 0px;
+}
+.linkA a:link {
+	color: #31230F;
+	text-decoration: none;
+}
+.linkA a:visited {
+	color: #31230F;
+	text-decoration: none;
+}
+.linkA a:active {
+
+	color: #31230F;
+	text-decoration: underline;
+}
+.linkA a:hover {
+
+
+	color: #31230F;
+	text-decoration: underline;
+}
+.PromoImgFoto {
+	border: 1px solid #60d654;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	margin-left: 0px;
+}
+.MerkTxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #559558;
+}
+.ProductTxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #448048;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 8px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.ContactDataA {
+	background-color: #0D1CA4;
+	margin: 0px;
+	padding: 15px;
+	float: inherit;
+	width: 340px;
+	border: 1px solid #071057;
+	color: #FFFFFF;
+}
+.ContactDataA a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.ContactDataA a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.ContactDataA a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.ContactDataA a:active {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.ContactDataB {
+	background-color: #DED1BC;
+	margin: 0px;
+	padding: 15px;
+	float: inherit;
+	width: 340px;
+	border: 1px solid #8B6A3B;
+	color: #8B6A3B;
+}
+.FormBtn {
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #071057;
+	border: 1px solid #0D1CA4;
+}
+.FormVeld {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #071057;
+	background-color: #E4EAED;
+	border: 1px solid #0D1CA4;
+	margin: 0px;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+}
+.TxtPlan {
+	margin: 0px;
+	padding-top: 7px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+a:link {
+	color: #315934;
+	text-decoration: none;
+}
+a:visited {
+	color: #315934;
+	text-decoration: none;
+}
+a:hover {
+	color: #315934;
+	text-decoration: underline;
+}
+a:active {
+	color: #315934;
+	text-decoration: underline;
+}
+.MovieBtn {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.movieZone {
+	border: 1px solid #60d759;
+}
+.macht {
+	line-height: -10px;
+}
+.adres a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #c4dac4;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+.adres a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #c4dac4;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+.adres a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #c4dac4;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+.adres a:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #c4dac4;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+.textAA {
+	font-weight: bold;
+}
+.NewsTitle {
+	font-size: 14px;
+	font-weight: bold;
+	color: #549457;
+	text-decoration: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+.NewsBeeldLinks {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	border: 1px solid #7A592F;
+	float: left;
+}
